@@ -9,4 +9,3 @@ Activation du servomoteur.
 Clignotants gauche/droite.
 Mode LED automatique via les yeux.
 Mode warning (LED clignotent simultanément).
-
